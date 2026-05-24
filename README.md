@@ -1,6 +1,8 @@
 # Tesla-Stock-Analysis (2010-2021)
 
 A complete data analytics project exploring Tesla's stock performance from 2010 to 2021 using SQL and Power BI. This end-to-end case study includes data cleaning, time-series analysis, volume spike detection, and insightful visualizations to showcase business intelligence and storytelling skills.
+
+<img src="Visuals/Screenshot 2025-06-12 193536.jpg" alt = "Image">
  
  ## 🧠 Project Objective
 
